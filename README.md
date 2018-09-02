@@ -1,4 +1,4 @@
-## Dawing by Python
+## Dawing using Python
 -----------------------------------------------------------------------------------
 This is an efficient way of drawing Sierpinski Triangle using Python's Turtile. 
 
